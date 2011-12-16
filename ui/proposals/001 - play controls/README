@@ -1,0 +1,17 @@
+--- Design Proposal: Play controls
+--- Proposal Number: 001
+--- Author: Janek Bevendorff
+--- Version: 1
+--- Date: Dec 16, 2011
+
+This is a suggestion for revamping the play controls.
+The play controls as they are implemented in Nightingale 1.8.1 (preview build) look very basic
+and don't provide the natural feeling of a button. They are slightly blurry, a bit
+pixelated, have no hover state and a very rough appearance for the pressed state
+(just the whole thing flipped vertically).
+
+This proposal provides more advanced hover and pressed states and an overall cleaner
+look for a much better user experience. Note also the smaller rewind and fast-forward
+buttons. This has not yet been implemented in the current preview build.
+
+The buttons in this proposal are also better aligned with other UI elements.
