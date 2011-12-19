@@ -1,0 +1,15 @@
+--- Design Proposal: Faceplate and shuffle-repeat buttons
+--- Proposal Number: 003
+--- Author: Janek Bevendorff
+--- Version: 1
+--- Date: Dec 19, 2011
+
+This is a slightly modified version of the faceplate. The proposal only contains
+the paused mode as the playing mode will be the same except the contents of the
+faceplate.
+
+The logo on the faceplate is a little bigger now to make it more recognizeable and
+it has got a hardly noticeable outer glow.
+
+Additionally, the shuffle and repeat buttons have been altered to give a more pleasing
+visual feedback on hover and click events.
